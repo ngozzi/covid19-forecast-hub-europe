@@ -15,7 +15,7 @@ advanced:
   css_style:
   css_class:
 cta:
-  url: 'visualisation'
+  url: 'https://viz.covid19forecasthub.eu'
   label: View forecasts
   icon_pack: fas
   icon: chart-line
