@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Visualisation"
-  url = "visualisation"
+  url = "https://viz.covid19forecasthub.eu"
   weight = 10
   parent = "Forecasts"
 
