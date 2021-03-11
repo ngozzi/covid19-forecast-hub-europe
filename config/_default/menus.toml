@@ -49,9 +49,19 @@
   parent = "Community"
 
 [[main]]
+  name = "Background"
+  url = "background"
+  weight = 30
+
+[[main]]
+  name = "Presentations"
+  url = "presentations"
+  parent = "Background"
+
+[[main]]
   name = "About"
   url = "about"
-  weight = 30
+  parent = "Background"
 
 [[main]]
   name = "Contact"
